@@ -58,6 +58,7 @@
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description |
 | ----------------------- | ------------------ |
+| [Google Noto Fonts](https://www.google.com/get/noto/)| Aims to wipe out all tofus by having universal fonts |
 | [Google Fonts](https://fonts.google.com/)| Library of around 1000 free licensed font families |
 | [DaFont](https://www.dafont.com/)| Archive of freely downloadable fonts |
 | [Fontisto Icons](https://fontisto.com/)| Fontisto the iconic font· Free fonts  |
